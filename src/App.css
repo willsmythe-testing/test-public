@@ -4,3 +4,11 @@
   padding: 2rem;
   text-align: center;
 }
+
+input {
+  border: solid red 1px;
+}
+
+input.submission {
+  background-color: yellow;
+}
