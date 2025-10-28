@@ -6,5 +6,6 @@ import App from './App.tsx'
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
     <App />
+    <div class="message">Please make sure to sign in.</div>
   </StrictMode>,
 )
