@@ -3,7 +3,11 @@ import './App.css'
 function App() {
   return (
     <div>
-      <h1>Hello World</h1>
+      Please enter your name and click submit!
+      <form>        
+        Name: <input type="text"/>    
+        <input type="button"/>
+      </form>
     </div>
   )
 }
